@@ -1,0 +1,29 @@
+{
+  "id": "contributing/pull-request-process",
+  "title": "Pull Request Process",
+  "description": "How to submit and review pull requests",
+  "source": "@site/docs/contributing/pull-request-process.md",
+  "sourceDirName": "contributing",
+  "slug": "/contributing/pull-request-process",
+  "permalink": "/STELLA_Documentation/docs/contributing/pull-request-process",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/contributing/pull-request-process.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Pull Request Process",
+    "description": "How to submit and review pull requests"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Testing",
+    "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/testing"
+  },
+  "next": {
+    "title": "Release Process",
+    "permalink": "/STELLA_Documentation/docs/contributing/release-process"
+  }
+}

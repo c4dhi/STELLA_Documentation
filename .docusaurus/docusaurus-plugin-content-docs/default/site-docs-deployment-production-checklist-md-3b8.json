@@ -1,0 +1,29 @@
+{
+  "id": "deployment/production-checklist",
+  "title": "Production Checklist",
+  "description": "Ensure your STELLA deployment is production-ready",
+  "source": "@site/docs/deployment/production-checklist.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/production-checklist",
+  "permalink": "/STELLA_Documentation/docs/deployment/production-checklist",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/deployment/production-checklist.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Production Checklist",
+    "description": "Ensure your STELLA deployment is production-ready"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Message Recording",
+    "permalink": "/STELLA_Documentation/docs/deployment/message-recording"
+  },
+  "next": {
+    "title": "Monitoring",
+    "permalink": "/STELLA_Documentation/docs/deployment/monitoring"
+  }
+}

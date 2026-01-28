@@ -1,0 +1,29 @@
+{
+  "id": "sdk/tools",
+  "title": "Tools",
+  "description": "Building custom tools for STELLA agents",
+  "source": "@site/docs/sdk/tools.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/tools",
+  "permalink": "/STELLA_Documentation/docs/sdk/tools",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/sdk/tools.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Tools",
+    "description": "Building custom tools for STELLA agents"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Message Types",
+    "permalink": "/STELLA_Documentation/docs/sdk/message-types"
+  },
+  "next": {
+    "title": "Streaming",
+    "permalink": "/STELLA_Documentation/docs/sdk/streaming"
+  }
+}

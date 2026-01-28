@@ -1,0 +1,29 @@
+{
+  "id": "architecture/session-lifecycle",
+  "title": "Session Lifecycle",
+  "description": "Understanding session states and transitions in STELLA",
+  "source": "@site/docs/architecture/session-lifecycle.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/session-lifecycle",
+  "permalink": "/STELLA_Documentation/docs/architecture/session-lifecycle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/architecture/session-lifecycle.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Session Lifecycle",
+    "description": "Understanding session states and transitions in STELLA"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Data Flow",
+    "permalink": "/STELLA_Documentation/docs/architecture/data-flow"
+  },
+  "next": {
+    "title": "Database Schema",
+    "permalink": "/STELLA_Documentation/docs/architecture/database"
+  }
+}

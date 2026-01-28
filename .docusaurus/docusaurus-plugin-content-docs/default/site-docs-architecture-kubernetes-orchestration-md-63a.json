@@ -1,0 +1,29 @@
+{
+  "id": "architecture/kubernetes-orchestration",
+  "title": "Kubernetes Orchestration",
+  "description": "How STELLA manages agent pods in Kubernetes",
+  "source": "@site/docs/architecture/kubernetes-orchestration.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/kubernetes-orchestration",
+  "permalink": "/STELLA_Documentation/docs/architecture/kubernetes-orchestration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/architecture/kubernetes-orchestration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Kubernetes Orchestration",
+    "description": "How STELLA manages agent pods in Kubernetes"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Database Schema",
+    "permalink": "/STELLA_Documentation/docs/architecture/database"
+  },
+  "next": {
+    "title": "Environment Variables",
+    "permalink": "/STELLA_Documentation/docs/architecture/environment-variables"
+  }
+}

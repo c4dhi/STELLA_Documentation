@@ -1,0 +1,28 @@
+{
+  "id": "plan-structure/states",
+  "title": "States",
+  "description": "States represent distinct phases of a conversation. Each state contains tasks to complete and defines rules for transitioning to other states.",
+  "source": "@site/docs/plan-structure/states.md",
+  "sourceDirName": "plan-structure",
+  "slug": "/plan-structure/states",
+  "permalink": "/STELLA_Documentation/docs/plan-structure/states",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/plan-structure/states.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "States"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/STELLA_Documentation/docs/plan-structure/"
+  },
+  "next": {
+    "title": "Tasks",
+    "permalink": "/STELLA_Documentation/docs/plan-structure/tasks"
+  }
+}

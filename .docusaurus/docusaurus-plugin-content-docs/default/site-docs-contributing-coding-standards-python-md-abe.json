@@ -1,0 +1,29 @@
+{
+  "id": "contributing/coding-standards/python",
+  "title": "Python",
+  "description": "Python coding standards for STELLA agents",
+  "source": "@site/docs/contributing/coding-standards/python.md",
+  "sourceDirName": "contributing/coding-standards",
+  "slug": "/contributing/coding-standards/python",
+  "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/python",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/contributing/coding-standards/python.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Python",
+    "description": "Python coding standards for STELLA agents"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "TypeScript",
+    "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/typescript"
+  },
+  "next": {
+    "title": "React",
+    "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/react"
+  }
+}

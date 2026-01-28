@@ -1,0 +1,29 @@
+{
+  "id": "contributing/coding-standards/testing",
+  "title": "Testing",
+  "description": "Testing standards and practices for STELLA",
+  "source": "@site/docs/contributing/coding-standards/testing.md",
+  "sourceDirName": "contributing/coding-standards",
+  "slug": "/contributing/coding-standards/testing",
+  "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/testing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/contributing/coding-standards/testing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "Testing",
+    "description": "Testing standards and practices for STELLA"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Git & Commits",
+    "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/git"
+  },
+  "next": {
+    "title": "Pull Request Process",
+    "permalink": "/STELLA_Documentation/docs/contributing/pull-request-process"
+  }
+}

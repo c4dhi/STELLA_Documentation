@@ -1,0 +1,29 @@
+{
+  "id": "deployment/monitoring",
+  "title": "Monitoring",
+  "description": "Set up observability for STELLA",
+  "source": "@site/docs/deployment/monitoring.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/monitoring",
+  "permalink": "/STELLA_Documentation/docs/deployment/monitoring",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/deployment/monitoring.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Monitoring",
+    "description": "Set up observability for STELLA"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Production Checklist",
+    "permalink": "/STELLA_Documentation/docs/deployment/production-checklist"
+  },
+  "next": {
+    "title": "LiveKit",
+    "permalink": "/STELLA_Documentation/docs/integration/livekit"
+  }
+}

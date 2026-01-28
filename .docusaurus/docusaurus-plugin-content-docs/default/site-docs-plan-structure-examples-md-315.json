@@ -1,0 +1,28 @@
+{
+  "id": "plan-structure/examples",
+  "title": "Examples",
+  "description": "This page provides complete, copy-pasteable plan examples for common use cases.",
+  "source": "@site/docs/plan-structure/examples.md",
+  "sourceDirName": "plan-structure",
+  "slug": "/plan-structure/examples",
+  "permalink": "/STELLA_Documentation/docs/plan-structure/examples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/plan-structure/examples.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Examples"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Deliverables",
+    "permalink": "/STELLA_Documentation/docs/plan-structure/deliverables"
+  },
+  "next": {
+    "title": "SDK Overview",
+    "permalink": "/STELLA_Documentation/docs/sdk/overview"
+  }
+}

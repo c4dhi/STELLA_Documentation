@@ -1,0 +1,29 @@
+{
+  "id": "contributing/coding-standards/git",
+  "title": "Git & Commits",
+  "description": "Git workflow and commit message conventions",
+  "source": "@site/docs/contributing/coding-standards/git.md",
+  "sourceDirName": "contributing/coding-standards",
+  "slug": "/contributing/coding-standards/git",
+  "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/git",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/contributing/coding-standards/git.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Git & Commits",
+    "description": "Git workflow and commit message conventions"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "React",
+    "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/react"
+  },
+  "next": {
+    "title": "Testing",
+    "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/testing"
+  }
+}

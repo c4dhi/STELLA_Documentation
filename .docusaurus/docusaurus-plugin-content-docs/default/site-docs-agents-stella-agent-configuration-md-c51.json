@@ -1,0 +1,28 @@
+{
+  "id": "agents/stella-agent/configuration",
+  "title": "Configuration",
+  "description": "Each expert is defined by a JSON configuration file. This page covers the configuration schema and expert selection logic.",
+  "source": "@site/docs/agents/stella-agent/configuration.md",
+  "sourceDirName": "agents/stella-agent",
+  "slug": "/agents/stella-agent/configuration",
+  "permalink": "/STELLA_Documentation/docs/agents/stella-agent/configuration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/agents/stella-agent/configuration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Configuration"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Default Experts",
+    "permalink": "/STELLA_Documentation/docs/agents/stella-agent/default-experts"
+  },
+  "next": {
+    "title": "Custom Experts",
+    "permalink": "/STELLA_Documentation/docs/agents/stella-agent/custom-experts"
+  }
+}

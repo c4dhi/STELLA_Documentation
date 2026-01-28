@@ -1,0 +1,28 @@
+{
+  "id": "agents/stella-agent/default-experts",
+  "title": "Default Experts",
+  "description": "The stella-agent includes 5 built-in experts located in agents/stella-agent/src/stella_agent/experts/:",
+  "source": "@site/docs/agents/stella-agent/default-experts.md",
+  "sourceDirName": "agents/stella-agent",
+  "slug": "/agents/stella-agent/default-experts",
+  "permalink": "/STELLA_Documentation/docs/agents/stella-agent/default-experts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/agents/stella-agent/default-experts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Default Experts"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/STELLA_Documentation/docs/agents/stella-agent/expert-pool-overview"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/STELLA_Documentation/docs/agents/stella-agent/configuration"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sdk/typescript-types",
+  "title": "TypeScript Types",
+  "description": "Complete TypeScript interfaces for the STELLA Session Management API.",
+  "source": "@site/docs/sdk/typescript-types.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/typescript-types",
+  "permalink": "/STELLA_Documentation/docs/sdk/typescript-types",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/sdk/typescript-types.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "TypeScript Types"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Streaming",
+    "permalink": "/STELLA_Documentation/docs/sdk/streaming"
+  },
+  "next": {
+    "title": "Kubernetes",
+    "permalink": "/STELLA_Documentation/docs/deployment/kubernetes"
+  }
+}

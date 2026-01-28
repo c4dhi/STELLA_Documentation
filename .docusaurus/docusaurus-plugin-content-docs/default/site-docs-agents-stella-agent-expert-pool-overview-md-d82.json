@@ -1,0 +1,28 @@
+{
+  "id": "agents/stella-agent/expert-pool-overview",
+  "title": "Overview",
+  "description": "The stella-agent includes a Parallel Expert Pool - a sophisticated system that routes potentially sensitive queries through specialized domain experts for analysis before generating responses.",
+  "source": "@site/docs/agents/stella-agent/expert-pool-overview.md",
+  "sourceDirName": "agents/stella-agent",
+  "slug": "/agents/stella-agent/expert-pool-overview",
+  "permalink": "/STELLA_Documentation/docs/agents/stella-agent/expert-pool-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/agents/stella-agent/expert-pool-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Overview"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/STELLA_Documentation/docs/agents/stella-agent/"
+  },
+  "next": {
+    "title": "Default Experts",
+    "permalink": "/STELLA_Documentation/docs/agents/stella-agent/default-experts"
+  }
+}

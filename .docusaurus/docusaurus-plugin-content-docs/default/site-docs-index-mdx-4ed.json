@@ -1,0 +1,25 @@
+{
+  "id": "index",
+  "title": "Introduction",
+  "description": "System for Testing and Engineering LLM-based Conversational Agents",
+  "source": "@site/docs/index.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/STELLA_Documentation/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/",
+    "title": "Introduction"
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/STELLA_Documentation/docs/guides/getting-started"
+  }
+}

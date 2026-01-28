@@ -1,0 +1,29 @@
+{
+  "id": "contributing/coding-standards/index",
+  "title": "Overview",
+  "description": "Code style and conventions for STELLA",
+  "source": "@site/docs/contributing/coding-standards/index.md",
+  "sourceDirName": "contributing/coding-standards",
+  "slug": "/contributing/coding-standards/",
+  "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/contributing/coding-standards/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Overview",
+    "description": "Code style and conventions for STELLA"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Development Setup",
+    "permalink": "/STELLA_Documentation/docs/contributing/development-setup"
+  },
+  "next": {
+    "title": "TypeScript",
+    "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/typescript"
+  }
+}

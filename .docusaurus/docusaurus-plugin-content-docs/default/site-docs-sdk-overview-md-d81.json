@@ -1,0 +1,29 @@
+{
+  "id": "sdk/overview",
+  "title": "SDK Overview",
+  "description": "Introduction to the STELLA Agent SDK",
+  "source": "@site/docs/sdk/overview.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/overview",
+  "permalink": "/STELLA_Documentation/docs/sdk/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/sdk/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "SDK Overview",
+    "description": "Introduction to the STELLA Agent SDK"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Examples",
+    "permalink": "/STELLA_Documentation/docs/plan-structure/examples"
+  },
+  "next": {
+    "title": "Base Agent",
+    "permalink": "/STELLA_Documentation/docs/sdk/base-agent"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "architecture/environment-variables",
+  "title": "Environment Variables",
+  "description": "Complete reference for all STELLA environment variables",
+  "source": "@site/docs/architecture/environment-variables.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/environment-variables",
+  "permalink": "/STELLA_Documentation/docs/architecture/environment-variables",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/architecture/environment-variables.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Environment Variables",
+    "description": "Complete reference for all STELLA environment variables"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Kubernetes Orchestration",
+    "permalink": "/STELLA_Documentation/docs/architecture/kubernetes-orchestration"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/STELLA_Documentation/docs/agents/overview"
+  }
+}

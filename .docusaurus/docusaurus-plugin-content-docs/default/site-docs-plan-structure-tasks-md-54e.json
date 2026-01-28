@@ -1,0 +1,28 @@
+{
+  "id": "plan-structure/tasks",
+  "title": "Tasks",
+  "description": "Tasks are individual units of work within a state. Each task represents something the agent needs to accomplish, often involving collecting information from the user through deliverables.",
+  "source": "@site/docs/plan-structure/tasks.md",
+  "sourceDirName": "plan-structure",
+  "slug": "/plan-structure/tasks",
+  "permalink": "/STELLA_Documentation/docs/plan-structure/tasks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/plan-structure/tasks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Tasks"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "States",
+    "permalink": "/STELLA_Documentation/docs/plan-structure/states"
+  },
+  "next": {
+    "title": "Deliverables",
+    "permalink": "/STELLA_Documentation/docs/plan-structure/deliverables"
+  }
+}

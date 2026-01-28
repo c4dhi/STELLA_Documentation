@@ -1,0 +1,25 @@
+{
+  "id": "contributing/release-process",
+  "title": "Release Process",
+  "description": "How STELLA versions and releases work",
+  "source": "@site/docs/contributing/release-process.md",
+  "sourceDirName": "contributing",
+  "slug": "/contributing/release-process",
+  "permalink": "/STELLA_Documentation/docs/contributing/release-process",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/contributing/release-process.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Release Process",
+    "description": "How STELLA versions and releases work"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Pull Request Process",
+    "permalink": "/STELLA_Documentation/docs/contributing/pull-request-process"
+  }
+}

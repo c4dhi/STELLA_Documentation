@@ -1,0 +1,29 @@
+{
+  "id": "contributing/coding-standards/typescript",
+  "title": "TypeScript",
+  "description": "TypeScript coding standards for the STELLA backend",
+  "source": "@site/docs/contributing/coding-standards/typescript.md",
+  "sourceDirName": "contributing/coding-standards",
+  "slug": "/contributing/coding-standards/typescript",
+  "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/typescript",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/contributing/coding-standards/typescript.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "TypeScript",
+    "description": "TypeScript coding standards for the STELLA backend"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/"
+  },
+  "next": {
+    "title": "Python",
+    "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/python"
+  }
+}

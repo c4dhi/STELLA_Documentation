@@ -1,0 +1,29 @@
+{
+  "id": "architecture/database",
+  "title": "Database Schema",
+  "description": "PostgreSQL database structure with Prisma ORM",
+  "source": "@site/docs/architecture/database.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/database",
+  "permalink": "/STELLA_Documentation/docs/architecture/database",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/architecture/database.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Database Schema",
+    "description": "PostgreSQL database structure with Prisma ORM"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Session Lifecycle",
+    "permalink": "/STELLA_Documentation/docs/architecture/session-lifecycle"
+  },
+  "next": {
+    "title": "Kubernetes Orchestration",
+    "permalink": "/STELLA_Documentation/docs/architecture/kubernetes-orchestration"
+  }
+}

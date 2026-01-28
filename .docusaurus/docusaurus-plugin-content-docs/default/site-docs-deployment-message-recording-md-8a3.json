@@ -1,0 +1,28 @@
+{
+  "id": "deployment/message-recording",
+  "title": "Message Recording",
+  "description": "STELLA includes a message recording system that silently captures all session messages for history retrieval and persistence.",
+  "source": "@site/docs/deployment/message-recording.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/message-recording",
+  "permalink": "/STELLA_Documentation/docs/deployment/message-recording",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/deployment/message-recording.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Message Recording"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Nginx Setup",
+    "permalink": "/STELLA_Documentation/docs/deployment/nginx-setup"
+  },
+  "next": {
+    "title": "Production Checklist",
+    "permalink": "/STELLA_Documentation/docs/deployment/production-checklist"
+  }
+}

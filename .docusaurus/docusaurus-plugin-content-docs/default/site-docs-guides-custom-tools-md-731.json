@@ -1,0 +1,29 @@
+{
+  "id": "guides/custom-tools",
+  "title": "Custom Tools",
+  "description": "Add custom tools to extend agent capabilities",
+  "source": "@site/docs/guides/custom-tools.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/custom-tools",
+  "permalink": "/STELLA_Documentation/docs/guides/custom-tools",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/guides/custom-tools.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Custom Tools",
+    "description": "Add custom tools to extend agent capabilities"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Build Your Own Agent",
+    "permalink": "/STELLA_Documentation/docs/guides/build-your-own-agent"
+  },
+  "next": {
+    "title": "Custom Agent Visualizers",
+    "permalink": "/STELLA_Documentation/docs/guides/add-custom-ui"
+  }
+}

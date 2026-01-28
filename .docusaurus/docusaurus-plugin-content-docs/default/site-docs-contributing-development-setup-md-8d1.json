@@ -1,0 +1,29 @@
+{
+  "id": "contributing/development-setup",
+  "title": "Development Setup",
+  "description": "Set up your local development environment",
+  "source": "@site/docs/contributing/development-setup.md",
+  "sourceDirName": "contributing",
+  "slug": "/contributing/development-setup",
+  "permalink": "/STELLA_Documentation/docs/contributing/development-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/contributing/development-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Development Setup",
+    "description": "Set up your local development environment"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Contributing Overview",
+    "permalink": "/STELLA_Documentation/docs/contributing/"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/"
+  }
+}

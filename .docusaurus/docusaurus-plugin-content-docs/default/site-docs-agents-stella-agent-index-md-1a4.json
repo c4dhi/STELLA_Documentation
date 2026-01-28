@@ -1,0 +1,28 @@
+{
+  "id": "agents/stella-agent/index",
+  "title": "Overview",
+  "description": "The full-featured conversational AI agent with advanced capabilities for production deployments.",
+  "source": "@site/docs/agents/stella-agent/index.md",
+  "sourceDirName": "agents/stella-agent",
+  "slug": "/agents/stella-agent/",
+  "permalink": "/STELLA_Documentation/docs/agents/stella-agent/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/agents/stella-agent/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Overview"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/STELLA_Documentation/docs/agents/overview"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/STELLA_Documentation/docs/agents/stella-agent/expert-pool-overview"
+  }
+}

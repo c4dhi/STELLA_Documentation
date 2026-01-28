@@ -1,0 +1,29 @@
+{
+  "id": "guides/add-custom-ui",
+  "title": "Custom Agent Visualizers",
+  "description": "Create custom visual representations for your STELLA AI assistant",
+  "source": "@site/docs/guides/add-custom-ui.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/add-custom-ui",
+  "permalink": "/STELLA_Documentation/docs/guides/add-custom-ui",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/guides/add-custom-ui.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Custom Agent Visualizers",
+    "description": "Create custom visual representations for your STELLA AI assistant"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Custom Tools",
+    "permalink": "/STELLA_Documentation/docs/guides/custom-tools"
+  },
+  "next": {
+    "title": "Authentication",
+    "permalink": "/STELLA_Documentation/docs/guides/authentication"
+  }
+}

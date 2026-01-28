@@ -1,0 +1,28 @@
+{
+  "id": "agents/stella-agent/custom-experts",
+  "title": "Custom Experts",
+  "description": "Create custom experts by adding JSON configuration files to the experts/ directory. Experts are auto-discovered on startup.",
+  "source": "@site/docs/agents/stella-agent/custom-experts.md",
+  "sourceDirName": "agents/stella-agent",
+  "slug": "/agents/stella-agent/custom-experts",
+  "permalink": "/STELLA_Documentation/docs/agents/stella-agent/custom-experts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/agents/stella-agent/custom-experts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Custom Experts"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/STELLA_Documentation/docs/agents/stella-agent/configuration"
+  },
+  "next": {
+    "title": "💫 stella-light-agent",
+    "permalink": "/STELLA_Documentation/docs/agents/stella-light-agent"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "guides/build-your-own-agent",
+  "title": "Build Your Own Agent",
+  "description": "Build a custom conversational AI agent with the STELLA SDK",
+  "source": "@site/docs/guides/build-your-own-agent.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/build-your-own-agent",
+  "permalink": "/STELLA_Documentation/docs/guides/build-your-own-agent",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/guides/build-your-own-agent.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Build Your Own Agent",
+    "description": "Build a custom conversational AI agent with the STELLA SDK"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/STELLA_Documentation/docs/guides/getting-started"
+  },
+  "next": {
+    "title": "Custom Tools",
+    "permalink": "/STELLA_Documentation/docs/guides/custom-tools"
+  }
+}

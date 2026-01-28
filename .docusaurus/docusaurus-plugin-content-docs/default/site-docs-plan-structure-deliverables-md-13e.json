@@ -1,0 +1,28 @@
+{
+  "id": "plan-structure/deliverables",
+  "title": "Deliverables",
+  "description": "Deliverables are specific pieces of information that the agent collects from users during tasks. They define what data to extract, how to validate it, and whether it's required.",
+  "source": "@site/docs/plan-structure/deliverables.md",
+  "sourceDirName": "plan-structure",
+  "slug": "/plan-structure/deliverables",
+  "permalink": "/STELLA_Documentation/docs/plan-structure/deliverables",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/plan-structure/deliverables.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Deliverables"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Tasks",
+    "permalink": "/STELLA_Documentation/docs/plan-structure/tasks"
+  },
+  "next": {
+    "title": "Examples",
+    "permalink": "/STELLA_Documentation/docs/plan-structure/examples"
+  }
+}

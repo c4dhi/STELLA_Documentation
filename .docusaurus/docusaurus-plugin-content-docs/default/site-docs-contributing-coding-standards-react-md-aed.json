@@ -1,0 +1,29 @@
+{
+  "id": "contributing/coding-standards/react",
+  "title": "React",
+  "description": "React coding standards for the STELLA frontend",
+  "source": "@site/docs/contributing/coding-standards/react.md",
+  "sourceDirName": "contributing/coding-standards",
+  "slug": "/contributing/coding-standards/react",
+  "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/react",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/contributing/coding-standards/react.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "React",
+    "description": "React coding standards for the STELLA frontend"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Python",
+    "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/python"
+  },
+  "next": {
+    "title": "Git & Commits",
+    "permalink": "/STELLA_Documentation/docs/contributing/coding-standards/git"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "integration/frontend",
+  "title": "Frontend Integration",
+  "description": "Integrating with the STELLA backend from your frontend",
+  "source": "@site/docs/integration/frontend.md",
+  "sourceDirName": "integration",
+  "slug": "/integration/frontend",
+  "permalink": "/STELLA_Documentation/docs/integration/frontend",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/integration/frontend.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Frontend Integration",
+    "description": "Integrating with the STELLA backend from your frontend"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "LiveKit Production",
+    "permalink": "/STELLA_Documentation/docs/integration/livekit-production"
+  },
+  "next": {
+    "title": "Contributing Overview",
+    "permalink": "/STELLA_Documentation/docs/contributing/"
+  }
+}

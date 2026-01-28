@@ -1,0 +1,28 @@
+{
+  "id": "guides/authentication",
+  "title": "Authentication",
+  "description": "STELLA uses JWT-based authentication to secure API endpoints and manage user access to projects.",
+  "source": "@site/docs/guides/authentication.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/authentication",
+  "permalink": "/STELLA_Documentation/docs/guides/authentication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/guides/authentication.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Authentication"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Custom Agent Visualizers",
+    "permalink": "/STELLA_Documentation/docs/guides/add-custom-ui"
+  },
+  "next": {
+    "title": "Architecture Overview",
+    "permalink": "/STELLA_Documentation/docs/architecture/overview"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sdk/streaming",
+  "title": "Streaming",
+  "description": "Real-time audio streaming in STELLA agents",
+  "source": "@site/docs/sdk/streaming.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/streaming",
+  "permalink": "/STELLA_Documentation/docs/sdk/streaming",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/sdk/streaming.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Streaming",
+    "description": "Real-time audio streaming in STELLA agents"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Tools",
+    "permalink": "/STELLA_Documentation/docs/sdk/tools"
+  },
+  "next": {
+    "title": "TypeScript Types",
+    "permalink": "/STELLA_Documentation/docs/sdk/typescript-types"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "architecture/overview",
+  "title": "Architecture Overview",
+  "description": "High-level overview of the STELLA platform architecture",
+  "source": "@site/docs/architecture/overview.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/overview",
+  "permalink": "/STELLA_Documentation/docs/architecture/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/architecture/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Architecture Overview",
+    "description": "High-level overview of the STELLA platform architecture"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/STELLA_Documentation/docs/guides/authentication"
+  },
+  "next": {
+    "title": "Data Flow",
+    "permalink": "/STELLA_Documentation/docs/architecture/data-flow"
+  }
+}

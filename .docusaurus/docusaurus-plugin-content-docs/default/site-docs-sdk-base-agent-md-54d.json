@@ -1,0 +1,29 @@
+{
+  "id": "sdk/base-agent",
+  "title": "Base Agent",
+  "description": "BaseAgent class reference",
+  "source": "@site/docs/sdk/base-agent.md",
+  "sourceDirName": "sdk",
+  "slug": "/sdk/base-agent",
+  "permalink": "/STELLA_Documentation/docs/sdk/base-agent",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/sdk/base-agent.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Base Agent",
+    "description": "BaseAgent class reference"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "SDK Overview",
+    "permalink": "/STELLA_Documentation/docs/sdk/overview"
+  },
+  "next": {
+    "title": "Message Types",
+    "permalink": "/STELLA_Documentation/docs/sdk/message-types"
+  }
+}

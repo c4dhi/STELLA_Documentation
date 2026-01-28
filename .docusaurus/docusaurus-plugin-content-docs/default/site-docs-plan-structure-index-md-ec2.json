@@ -1,0 +1,28 @@
+{
+  "id": "plan-structure/index",
+  "title": "Overview",
+  "description": "Plans are JSON-based conversation blueprints that define how STELLA agents conduct guided conversations. A Plan specifies the flow of states, tasks to complete, and data to collect from users.",
+  "source": "@site/docs/plan-structure/index.md",
+  "sourceDirName": "plan-structure",
+  "slug": "/plan-structure/",
+  "permalink": "/STELLA_Documentation/docs/plan-structure/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/c4dhi/STELLA_Documentation/tree/main/docs/plan-structure/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Overview"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "🔊 echo-agent",
+    "permalink": "/STELLA_Documentation/docs/agents/echo-agent"
+  },
+  "next": {
+    "title": "States",
+    "permalink": "/STELLA_Documentation/docs/plan-structure/states"
+  }
+}
