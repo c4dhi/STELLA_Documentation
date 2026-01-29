@@ -29,7 +29,7 @@ const Hero = () => {
           {/* Subtitle */}
           <AnimatedSection animation="fade-up" delay={150}>
             <p className="hero-subtitle">
-              STELLA handles audio, voice streaming, and orchestration so you can build and deploy voice agents instantly.
+              STELLA handles audio, voice and video streaming, as well as orchestration so you can build and deploy voice agents instantly.
             </p>
           </AnimatedSection>
 
@@ -58,46 +58,46 @@ const Hero = () => {
 
           {/* Browser Mockup */}
           <AnimatedSection animation="fade-up" delay={400}>
-          <div className="hero-browser">
-            <div className="hero-browser-window">
-              {/* Browser Header */}
-              <div className="hero-browser-header">
-                <div className="hero-browser-dots">
-                  <div className="hero-browser-dot hero-browser-dot--red" />
-                  <div className="hero-browser-dot hero-browser-dot--yellow" />
-                  <div className="hero-browser-dot hero-browser-dot--green" />
-                </div>
-                <div className="hero-browser-url">
-                  <span>STELLA Demo</span>
-                </div>
-              </div>
-              {/* Content Area */}
-              <div className="hero-browser-content">
-                <div className="hero-sphere-container">
-                  <HeroSphereDemo />
-                </div>
-              </div>
-              {/* Hover Overlay */}
-              <div className="hero-browser-overlay">
-                <div className="hero-browser-overlay-border" />
-                <div className="hero-browser-overlay-content">
-                  <div className="hero-browser-overlay-icon">
-                    <Mic />
+            <div className="hero-browser">
+              <div className="hero-browser-window">
+                {/* Browser Header */}
+                <div className="hero-browser-header">
+                  <div className="hero-browser-dots">
+                    <div className="hero-browser-dot hero-browser-dot--red" />
+                    <div className="hero-browser-dot hero-browser-dot--yellow" />
+                    <div className="hero-browser-dot hero-browser-dot--green" />
                   </div>
-                  <h3 className="hero-browser-overlay-title">Try the Demo</h3>
-                  <p className="hero-browser-overlay-text">
-                    Experience STELLA's voice AI capabilities firsthand.
-                  </p>
-                  <button className="hero-browser-overlay-btn" disabled>
-                    Currently Unavailable
-                  </button>
-                  <p className="hero-browser-overlay-disclaimer">
-                    Clicking will redirect you to an external demo session.
-                  </p>
+                  <div className="hero-browser-url">
+                    <span>STELLA Demo</span>
+                  </div>
+                </div>
+                {/* Content Area */}
+                <div className="hero-browser-content">
+                  <div className="hero-sphere-container">
+                    <HeroSphereDemo />
+                  </div>
+                </div>
+                {/* Hover Overlay */}
+                <div className="hero-browser-overlay">
+                  <div className="hero-browser-overlay-border" />
+                  <div className="hero-browser-overlay-content">
+                    <div className="hero-browser-overlay-icon">
+                      <Mic />
+                    </div>
+                    <h3 className="hero-browser-overlay-title">Try the Demo</h3>
+                    <p className="hero-browser-overlay-text">
+                      Experience STELLA's voice AI capabilities firsthand.
+                    </p>
+                    <button className="hero-browser-overlay-btn" disabled>
+                      Currently Unavailable
+                    </button>
+                    <p className="hero-browser-overlay-disclaimer">
+                      Clicking will redirect you to an external demo session.
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
           </AnimatedSection>
         </div>
       </div>
